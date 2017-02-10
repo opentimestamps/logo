@@ -17,6 +17,7 @@ Each direcory contains:
 * instagram-110x110.png
 * ipad-152x152.png
 * iphone-6-180x180.png
+* logo_opentimestamps_mark_blue.svg or logo_opentimestamps_mark_white.svg
 * linkedin-300x300.png
 * pinterest-165x165.png
 * twitter-400x400.png
