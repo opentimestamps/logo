@@ -1,6 +1,6 @@
 # opentimestamps logo
 
-The repository contains logos with blue and white background.
+The repository contains Opentimestamps logo in blue (#164CA6) and white (#FFFFFF).
 
 Each direcory contains:
 * android-hdpi-72x72.png
