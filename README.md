@@ -27,3 +27,10 @@ Each direcory contains:
 * website-square-160x160.png
 * windows-62x62.png
 * youtube-channel-98x98.png
+
+# License
+opentimestamps-logo is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
